@@ -20,6 +20,8 @@
 > 开源地址：https://github.com/liyupi/yu-rpc
 >
 > [教程第一章可免费学习](https://www.code-nav.cn/course/1768543954720022530/section/1768545847093518337)
+>
+> [导学视频 - RPC 讲解](https://www.bilibili.com/video/BV1AJ4m1H7XL)
 
 
 
@@ -143,10 +145,3 @@
 41. 启动机制 | 注解驱动设计
 42. 启动机制 | Spring Boot Starter 注解驱动实现
 43. 项目扩展思路
-
-
-
-## 完整项目教程学习
-
-点击 [加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) ，鱼皮往期 [所有原创项目](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd) 均可学习。
-
